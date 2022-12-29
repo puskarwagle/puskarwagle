@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating web-apps
 - 🌱 I’m currently learning node js.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me puskarwagle17@gmail.com/ 9864049501
 
 <!---
 puskarwagle/puskarwagle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
